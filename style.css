@@ -1,0 +1,137 @@
+.body{
+    background-image: url("Screenshot\ 2024-06-01\ 112416.png");
+    height: 80rem;
+    border-radius: 10px;
+    padding: 80px 0px 0px 0px;
+}
+
+.content{
+    background-color: #fff;
+    width: 75rem;
+    height: 60rem;
+    margin-left: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 15px 15px 10px #777a7a;
+}
+
+
+.product{
+    margin: 0px 0px 0px 190px;
+    font-family: sans-serif;
+}
+
+
+.heed{
+    margin: 60px 250px 30px 0px;
+    display: flex;
+}
+
+.index{
+    margin: 0px 0px 0px 100px;
+    background-color: #fefefe;
+    padding: 10px 0px 30px 0px;
+    border: solid 1px #000;
+    width: 9rem;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: grab;
+}
+
+.for{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0px 5px 0px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    
+    color: #971608;
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+li{
+    list-style: none;
+    text-decoration: none;
+}
+
+/* h1{
+    display: inline-flex;
+} */
+
+.box{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.bar{
+    margin: 10px 20px 0px 150px;
+}
+
+.inline-block{
+    justify-content: space-between;
+}
+
+
+.button{
+    background-color: #395fdb;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-right: 6px;
+    border: #395fdb
+}
+
+.danger{
+    background-color: #f43b27;
+    margin: 9px 9px 3px 40px;
+    padding-right: 34px;
+    width: 12rem;
+    height: 50px;
+    cursor: grab;
+}
+
+.secondary{
+    background-color: #fefefe;
+    padding: 10px 0px 30px 0px;
+    border: solid 1px #000;
+    width: 9rem;
+    height: 40px;
+    text-align: center;
+    cursor: grab;
+}
+
+.parag{
+    margin: 0px 0px 0px 710px ;
+}
+
+.pic{
+    background-image: url(dribble.PNG);
+    height: 25rem;
+    width: 50rem;
+    border-radius: 10px;
+    margin: 20px 100px 100px 190px;
+}                                                  
+  
+ .footer{
+    
+    align-content: center;
+ }
+
+ .h4{
+    margin: -90px 0px 17px 35rem;
+ }
+
+ .h6{
+    margin: -10px 0px 17px 40rem;
+ }
+
+ .navi{
+    display: flex;
+    justify-content: space-evenly;
+ }
